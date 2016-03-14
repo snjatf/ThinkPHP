@@ -39,7 +39,7 @@
         </div>
         <div position="center" id="framecenter">
             <div tabid="home" title="我的主页" style="height:300px" >
-                <iframe frameborder="0" name="home" id="home" src="welcome.htm"></iframe>
+                <iframe frameborder="0" name="home" id="home" src="admin/index/welcome"></iframe>
             </div>
         </div>
 
@@ -47,6 +47,6 @@
 </block>
 <block name="footer">
     <div  style="height:32px; line-height:32px; text-align:center;">
-        Copyright © 2011-2014 www.ligerui.com
+        Copyright © 2011-<?php echo date('Y') ?> <a href="http://www.n-bers.com">www.n-bers.com</a>
     </div>
 </block>

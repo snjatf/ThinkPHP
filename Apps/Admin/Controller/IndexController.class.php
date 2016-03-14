@@ -17,4 +17,9 @@ class IndexController extends Controller {
         $this->assign('page',$this->pageInfo);
         $this->display('show');
     }
+
+    public function  Welcome()
+    {
+        $this->display('welcome');
+    }
 }
