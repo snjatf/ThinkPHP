@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a1388ac-9b5c-4c1e-b1f4-26d2b365feee" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apps/Admin/Common/Class4LigerUI/Data4Grid.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apps/Admin/Controller/UserController.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apps/Admin/Model/UserModel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apps/Admin/View/base_resource.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apps/Admin/View/user_index.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apps/Admin/View/user_test.tpl" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Apps/Admin/Common/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Apps/Admin/Model/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Apps/Admin/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Apps/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Apps/Admin/Controller/IndexController.class.php" afterPath="$PROJECT_DIR$/Apps/Admin/Controller/IndexController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Apps/Admin/View/admin_base.tpl" afterPath="$PROJECT_DIR$/Apps/Admin/View/admin_base.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Apps/Admin/View/index_index.tpl" afterPath="$PROJECT_DIR$/Apps/Admin/View/index_index.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public/liger_ui/indexdata.js" afterPath="$PROJECT_DIR$/Public/liger_ui/indexdata.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/63696e20ffa7181921fb912fff5cdbcb.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/63696e20ffa7181921fb912fff5cdbcb.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/4c3669c426d5757f5185ca5d41f7d215.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/4c3669c426d5757f5185ca5d41f7d215.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPHP/Conf/convention.php" afterPath="$PROJECT_DIR$/ThinkPHP/Conf/convention.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Public/liger_ui/welcome.htm" afterPath="$PROJECT_DIR$/Apps/Admin/View/index_welcome.tpl" />
-    </list>
+    <list default="true" id="7a1388ac-9b5c-4c1e-b1f4-26d2b365feee" name="Default" comment="" />
     <ignored path="News.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -46,7 +25,7 @@
       <file leaf-file-name="UserController.class.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Apps/Admin/Controller/UserController.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.714286">
+            <state vertical-scroll-proportion="0.0">
               <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
               <folding>
                 <element signature="e#34#75#0#PHP" expanded="true" />
@@ -58,8 +37,8 @@
       <file leaf-file-name="indexdata.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Public/liger_ui/indexdata.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40418118">
-              <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+            <state vertical-scroll-proportion="0.4965157">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -403,7 +382,7 @@
     <frame x="-7" y="0" width="1370" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22748092" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20763358" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -438,15 +417,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Apps/Admin/Common/Class4LigerUI/Data4Grid.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Apps/Admin/View/user_index.tpl">
+    <entry file="file://$PROJECT_DIR$/Public/liger_ui/indexdata.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -454,11 +425,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Apps/Admin/Common/Class4LigerUI/Data4Grid.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Apps/Admin/View/user_index.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Apps/Admin/View/user_test.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -476,7 +460,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -491,7 +474,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,13 +647,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1453707254698" expanded="true" signature="3289:3300" placeholder="..." />
-            <marker date="1453707254698" expanded="true" signature="5327:5341" placeholder="..." />
-            <marker date="1453707254698" expanded="true" signature="10959:10971" placeholder="..." />
-            <marker date="1453707254698" expanded="true" signature="11362:11374" placeholder="..." />
-            <marker date="1453707254698" expanded="true" signature="27468:27482" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -679,13 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1289520318000" expanded="true" signature="11499:11532" placeholder="..." />
-            <marker date="1289520318000" expanded="true" signature="13294:13304" placeholder="..." />
-            <marker date="1289520318000" expanded="true" signature="13394:13416" placeholder="..." />
-            <marker date="1289520318000" expanded="true" signature="75319:75412" placeholder="..." />
-            <marker date="1289520318000" expanded="true" signature="75445:75538" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -728,7 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.107143">
           <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -757,7 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.7142856">
           <caret line="4" column="67" selection-start-line="4" selection-start-column="67" selection-end-line="4" selection-end-column="67" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,19 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46596858">
           <caret line="1237" column="13" selection-start-line="1237" selection-start-column="13" selection-end-line="1237" selection-end-column="13" />
-          <folding>
-            <marker date="1454247170370" expanded="true" signature="16628:16640" placeholder="..." />
-            <marker date="1454247170370" expanded="true" signature="19656:19666" placeholder="..." />
-            <marker date="1454247170370" expanded="true" signature="151081:151107" placeholder="..." />
-            <marker date="1454247170370" expanded="true" signature="151386:151412" placeholder="..." />
-            <marker date="1454247170370" expanded="true" signature="151696:151722" placeholder="..." />
-            <marker date="1454247170370" expanded="true" signature="166578:166590" placeholder="..." />
-            <marker date="1454247170370" expanded="true" signature="167225:167237" placeholder="..." />
-            <marker date="1454247170370" expanded="true" signature="173299:173311" placeholder="..." />
-            <marker date="1454247170370" expanded="true" signature="174117:174129" placeholder="..." />
-            <marker date="1454247170370" expanded="true" signature="190729:190741" placeholder="..." />
-            <marker date="1454247170370" expanded="true" signature="190888:190900" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -785,7 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -801,7 +753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -809,13 +760,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.107143">
           <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Apps/Admin/Controller/UserController.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.714286">
+        <state vertical-scroll-proportion="0.0">
           <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
           <folding>
             <element signature="e#34#75#0#PHP" expanded="true" />
@@ -825,8 +775,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Public/liger_ui/indexdata.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40418118">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.4965157">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding />
         </state>
       </provider>
